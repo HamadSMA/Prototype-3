@@ -7497,7 +7497,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Running_Jump
-  m_Speed: 1
+  m_Speed: 0.8
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 110126729}
@@ -8347,7 +8347,7 @@ AnimatorStateMachine:
     m_Position: {x: 360, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110272805}
-    m_Position: {x: 360, y: 72, z: 0}
+    m_Position: {x: 360, y: 70, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110228009}
     m_Position: {x: 360, y: 156, z: 0}
@@ -8400,10 +8400,10 @@ AnimatorStateMachine:
     m_Position: {x: 24, y: 72, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110261697}
-    m_Position: {x: -72, y: 180, z: 0}
+    m_Position: {x: -70, y: 180, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110204794}
-    m_Position: {x: 168, y: 180, z: 0}
+    m_Position: {x: 170, y: 180, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110214858}
     m_Position: {x: 168, y: 240, z: 0}
